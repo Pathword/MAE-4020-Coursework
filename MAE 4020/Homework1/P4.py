@@ -22,8 +22,8 @@ def distance(r,h):
     return (((2*r*h)+(h**2))**0.5)
 
 #declaring r values
-earth_r = 7926
-mars_r = 4217
+earth_r = 7926/2
+mars_r = 4217/2
 
 #creating linspace vector (numpy array) from 0 to 10000 feet. Also converted feet to miles.
 hills = np.linspace(0,10000*0.000189394)
