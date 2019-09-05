@@ -115,5 +115,5 @@ fig.show()
 
 #extremely clear that there exists some relationship between A and the critical guess by simply a coefficient
 #The coefficient of A to the critical initial guess is sqrt((7/3)*A).
-#work:
+#see work on github, P1_extra_critical_guess_solution.pdf
 #additionally, its clear that less iterations are needed if initial guess is close to final answer of sqrt(A)
