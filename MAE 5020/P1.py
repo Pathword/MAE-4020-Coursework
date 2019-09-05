@@ -14,13 +14,13 @@ xn = 1
 
 def halley(A,x1,crit):
 
+    """
     if x1 == 0:
-        print("Initial guess must be greater than 0")
         return False
     #little math action here, check notes on divergence/convergence
     elif x1 > ((7*A)/3)**0.5:
-        print("Broke critical initial guess, guess smaller")
         return False
+    """
 
     #declaring xn vals to analyze later, declaring initial guess x1
     xn_vals = [x1]
@@ -31,9 +31,12 @@ def halley(A,x1,crit):
     #while absolute difference of current answer is greater than the criteria, iterate
     while np.abs(xn - np.sqrt(A)) > crit:
         #Found out the hard way this algorithm breaks sometimes, testing if xn is blowing up to infinity
+        #eq can also go to 0, meaning infinite iterations
         if xn > A**2:
-            print("Im broken " + str(xn))
             return False
+        elif xn == 0:
+            return False
+
         else:
             #formula stuff
             yn = (1/A)*(xn**2)
@@ -53,5 +56,3 @@ plt.plot(approx[1])
 plt.hlines(np.sqrt(5),0,len(approx[1])+1)
 plt.grid(True)
 plt.show()
-
-
