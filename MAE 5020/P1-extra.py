@@ -91,7 +91,7 @@ fig = plt.figure()
 plt.plot(np.arange(0,len(iters)*0.01,0.01),iters)
 plt.xlabel('initial guess')
 plt.ylabel('iterations to achieve crit')
-plt.title("A = " + str(A) + "\n" + "ratio of sqrt(A) to x1: " + str(round((np.sqrt(A)/max_x1),4)))
+plt.title("A = " + str(A) + "\n" + "ratio of sqrt(A) to maximum allowed guess (Xc): " + str(round((np.sqrt(A)/max_x1),4)))
 fig.show()
 
 
@@ -108,7 +108,7 @@ fig = plt.figure()
 plt.plot(np.arange(0,len(iters)*0.01,0.01),iters)
 plt.xlabel('initial guess')
 plt.ylabel('iterations to achieve crit')
-plt.title("A = " + str(A) + "\n" + "ratio of sqrt(A) to x1: " + str(round((np.sqrt(A)/max_x1),4)))
+plt.title("A = " + str(A) + "\n" + "ratio of sqrt(A) to maximum allowed guess (Xc): " + str(round((np.sqrt(A)/max_x1),4)))
 fig.show()
 
 #########################################
