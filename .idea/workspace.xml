@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ccc69cbf-0d9a-437c-ab16-88e1572c8456" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/MAE 4020/Homework 2/MAE4020-HW2-P3.py" beforeDir="false" afterPath="$PROJECT_DIR$/MAE 4020/Homework 2/MAE4020-HW2-P3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/MAE-4020-Coursework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/MAE-4020-Coursework.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MAE 4020/Homework1/P1-3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MAE 4020/Homework1/P4.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -81,12 +86,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/MAE 4020/Homework 2/MAE4020-HW2-P3.py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="207">
               <caret line="18" column="4" lean-forward="true" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="43" />
               <folding>
                 <element signature="e#60#78#0" expanded="true" />
 >>>>>>> 1ce8fe031c9204bd4dc5b06cfea37e6651cc51b3
               </folding>
+=======
+            <state relative-caret-position="238">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+>>>>>>> parent of 1ce8fe0... Worked on HW2
             </state>
           </provider>
         </entry>
@@ -380,6 +390,7 @@
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15384616" />
 =======
     <frame x="-8" y="-8" width="1843" height="1096" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1534626" />
 >>>>>>> 1ce8fe031c9204bd4dc5b06cfea37e6651cc51b3
@@ -505,12 +516,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/MAE 4020/Homework 2/MAE4020-HW2-P3.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="207">
           <caret line="18" column="4" lean-forward="true" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="43" />
           <folding>
             <element signature="e#60#78#0" expanded="true" />
 >>>>>>> 1ce8fe031c9204bd4dc5b06cfea37e6651cc51b3
           </folding>
+=======
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+>>>>>>> parent of 1ce8fe0... Worked on HW2
         </state>
       </provider>
     </entry>
