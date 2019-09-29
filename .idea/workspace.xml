@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ccc69cbf-0d9a-437c-ab16-88e1572c8456" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/MAE 4020/Homework 2/MAE4020-HW2-P3.py" beforeDir="false" afterPath="$PROJECT_DIR$/MAE 4020/Homework 2/MAE4020-HW2-P3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/MAE-4020-Coursework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/MAE-4020-Coursework.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MAE 4020/Homework1/P1-3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MAE 4020/Homework1/P4.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,16 +15,93 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
+  <component name="FUSProjectUsageTrigger">
+    <session id="1308925015">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="9" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.4" value="3" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="22" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="22" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="P1" value="132" />
+          <entry key="P1 (1)" value="1883" />
+          <entry key="P1-extra" value="63" />
+          <entry key="P2" value="38" />
+          <entry key="Python Console" value="526" />
+          <entry key="dummy" value="16" />
+          <entry key="py" value="16027" />
+          <entry key="root_finder" value="233" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="16" />
+          <entry key="Python" value="18902" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test_files/root_finder.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="62" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_files/3130 Lab 1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="354">
+              <caret line="49" column="12" lean-forward="true" selection-end-line="55" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+=======
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/MAE 4020/Homework 2/MAE4020-HW2-P3.py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+<<<<<<< HEAD
             <state relative-caret-position="207">
               <caret line="18" column="4" lean-forward="true" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="43" />
               <folding>
                 <element signature="e#60#78#0" expanded="true" />
+>>>>>>> 1ce8fe031c9204bd4dc5b06cfea37e6651cc51b3
               </folding>
+=======
+            <state relative-caret-position="238">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+>>>>>>> parent of 1ce8fe0... Worked on HW2
+=======
+            <state relative-caret-position="238">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+>>>>>>> parent of 1ce8fe0... Worked on HW2
             </state>
           </provider>
         </entry>
@@ -54,15 +136,27 @@
         <option value="$PROJECT_DIR$/MAE 5020/P1.py" />
         <option value="$PROJECT_DIR$/MAE 4021/Homework 1/P2.py" />
         <option value="$PROJECT_DIR$/MAE 5020/P1-extra.py" />
+<<<<<<< HEAD
+        <option value="$PROJECT_DIR$/test_files/root_finder.py" />
+        <option value="$PROJECT_DIR$/test_files/3130 Lab 1.py" />
+=======
         <option value="$PROJECT_DIR$/MAE 4020/Homework 2/MAE4020-HW2-P3.py" />
+>>>>>>> 1ce8fe031c9204bd4dc5b06cfea37e6651cc51b3
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
+<<<<<<< HEAD
+    <option name="x" value="267" />
+    <option name="y" value="-8" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+=======
     <option name="x" value="-12" />
     <option name="y" value="-12" />
     <option name="width" value="990" />
     <option name="height" value="1100" />
+>>>>>>> 1ce8fe031c9204bd4dc5b06cfea37e6651cc51b3
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -79,12 +173,16 @@
             <path>
               <item name="MAE-4020-Coursework" type="b2602c69:ProjectViewProjectNode" />
               <item name="MAE-4020-Coursework" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
+              <item name="test_files" type="462c0819:PsiDirectoryNode" />
+=======
               <item name="MAE 4020" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MAE-4020-Coursework" type="b2602c69:ProjectViewProjectNode" />
               <item name="MAE-4020-Coursework" type="462c0819:PsiDirectoryNode" />
               <item name="MAE 5020" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 1ce8fe031c9204bd4dc5b06cfea37e6651cc51b3
             </path>
           </expand>
           <select />
@@ -114,17 +212,30 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
+  <component name="RunManager" selected="Python.3130 Lab 1">
+    <configuration name="3130 Lab 1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
   <component name="RunManager" selected="Python.MAE4020-HW2-P3">
     <configuration name="MAE4020-HW2-P3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> 1ce8fe031c9204bd4dc5b06cfea37e6651cc51b3
       <module name="MAE-4020-Coursework" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
+<<<<<<< HEAD
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_files" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_files/3130 Lab 1.py" />
+=======
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MAE 4020/Homework 2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MAE 4020/Homework 2/MAE4020-HW2-P3.py" />
+>>>>>>> 1ce8fe031c9204bd4dc5b06cfea37e6651cc51b3
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,28 +244,11 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="P1-3" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="MAE-4020-Coursework" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MAE 4020/Homework1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MAE 4020/Homework1/P1-3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+<<<<<<< HEAD
     <configuration name="P2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+    <configuration name="P1-3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> 1ce8fe031c9204bd4dc5b06cfea37e6651cc51b3
       <module name="MAE-4020-Coursework" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -162,13 +256,21 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+<<<<<<< HEAD
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MAE 4021/Homework 1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MAE 4021/Homework 1/P2.py" />
+=======
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MAE 4020/Homework1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MAE 4020/Homework1/P1-3.py" />
+>>>>>>> 1ce8fe031c9204bd4dc5b06cfea37e6651cc51b3
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -217,11 +319,40 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="root_finder" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MAE-4020-Coursework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_files" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_files/root_finder.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.P2" />
       <item itemvalue="Python.P3" />
-      <item itemvalue="Python.P1-3" />
       <item itemvalue="Python.P4" />
+<<<<<<< HEAD
+      <item itemvalue="Python.root_finder" />
+      <item itemvalue="Python.3130 Lab 1" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.3130 Lab 1" />
+        <item itemvalue="Python.root_finder" />
+        <item itemvalue="Python.P3" />
+        <item itemvalue="Python.P2" />
+        <item itemvalue="Python.P4" />
+=======
       <item itemvalue="Python.MAE4020-HW2-P3" />
     </list>
     <recent_temporary>
@@ -231,6 +362,7 @@
         <item itemvalue="Python.P2" />
         <item itemvalue="Python.P4" />
         <item itemvalue="Python.P1-3" />
+>>>>>>> 1ce8fe031c9204bd4dc5b06cfea37e6651cc51b3
       </list>
     </recent_temporary>
   </component>
@@ -257,11 +389,19 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15384616" />
+=======
     <frame x="-8" y="-8" width="1843" height="1096" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1534626" />
+>>>>>>> 1ce8fe031c9204bd4dc5b06cfea37e6651cc51b3
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info x="-1666" y="174" width="1501" height="304" id="Python Console" order="3" type="WINDOWED" weight="0.329718" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.329718" />
@@ -270,9 +410,14 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+<<<<<<< HEAD
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.329718" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+=======
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32917964" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info active="true" anchor="bottom" id="Python Console" order="10" visible="true" weight="0.32917964" />
+>>>>>>> 1ce8fe031c9204bd4dc5b06cfea37e6651cc51b3
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -300,13 +445,6 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Homework1/P1-3.py" />
     <entry file="file://$PROJECT_DIR$/Homework1/P4.py" />
-    <entry file="file://$PROJECT_DIR$/MAE 4021/Homework 1/P3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="388">
-          <caret line="31" column="46" lean-forward="true" selection-start-line="31" selection-start-column="46" selection-end-line="31" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MAE 5020/P1.py" />
     <entry file="file://$PROJECT_DIR$/MAE 5020/P1-extra.py" />
     <entry file="file://$PROJECT_DIR$/MAE 4020/Homework1/P1-3.py">
@@ -316,25 +454,63 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/MAE 4020/Homework1/P4.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
           <caret line="4" column="9" lean-forward="true" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
-          <folding>
-            <element signature="e#225#243#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MAE 4021/Homework 1/P1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
+        <state relative-caret-position="270">
           <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MAE 4021/Homework 1/P2.py">
+=======
+    <entry file="file://$PROJECT_DIR$/MAE 5020/P1.py" />
+    <entry file="file://$PROJECT_DIR$/MAE 5020/P1-extra.py" />
+    <entry file="file://$PROJECT_DIR$/MAE 4020/Homework1/P1-3.py">
+>>>>>>> 1ce8fe031c9204bd4dc5b06cfea37e6651cc51b3
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1188">
+          <caret line="66" column="3" selection-start-line="66" selection-start-column="3" selection-end-line="66" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MAE 4021/Homework 1/P3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_files/3130 Lab 1.py">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="354">
+          <caret line="49" column="12" lean-forward="true" selection-end-line="55" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+=======
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+>>>>>>> 1ce8fe031c9204bd4dc5b06cfea37e6651cc51b3
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_files/root_finder.py">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="216">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="62" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+=======
         <state relative-caret-position="204">
           <caret line="42" column="7" lean-forward="true" selection-start-line="42" selection-start-column="7" selection-end-line="42" selection-end-column="7" />
         </state>
@@ -345,11 +521,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/MAE 4020/Homework 2/MAE4020-HW2-P3.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+<<<<<<< HEAD
         <state relative-caret-position="207">
           <caret line="18" column="4" lean-forward="true" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="43" />
           <folding>
             <element signature="e#60#78#0" expanded="true" />
+>>>>>>> 1ce8fe031c9204bd4dc5b06cfea37e6651cc51b3
           </folding>
+=======
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+>>>>>>> parent of 1ce8fe0... Worked on HW2
+=======
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+>>>>>>> parent of 1ce8fe0... Worked on HW2
         </state>
       </provider>
     </entry>
